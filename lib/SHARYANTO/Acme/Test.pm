@@ -4,6 +4,8 @@ use 5.010001;
 use strict;
 use warnings;
 
+our $foo = 1;
+
 1;
 __END__
 # ABSTRACT: Distribution to test various things
